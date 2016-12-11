@@ -1,0 +1,22 @@
+C:\LeeLiu\ChartSuite\Test\bin\Debug\Test.exe.config
+C:\LeeLiu\ChartSuite\Test\bin\Debug\Test.exe
+C:\LeeLiu\ChartSuite\Test\bin\Debug\Test.pdb
+C:\LeeLiu\ChartSuite\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\LeeLiu\ChartSuite\Test\obj\Debug\Test.Properties.Resources.resources
+C:\LeeLiu\ChartSuite\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\LeeLiu\ChartSuite\Test\obj\Debug\Test.exe
+C:\LeeLiu\ChartSuite\Test\obj\Debug\Test.pdb
+C:\LeeLiu\ChartSuite\Test\bin\Debug\ChartSuite.dll
+C:\LeeLiu\ChartSuite\Test\bin\Debug\ChartSuite.pdb
+C:\LeeLiu\ChartSuite\Test\obj\Debug\Test.Form1.resources
+C:\LeeLiu\ChartSuite - Copy\Test\bin\Debug\Test.exe.config
+C:\LeeLiu\ChartSuite - Copy\Test\obj\Debug\Test.exe
+C:\LeeLiu\ChartSuite - Copy\Test\obj\Debug\Test.pdb
+C:\LeeLiu\ChartSuite - Copy\Test\bin\Debug\Test.exe
+C:\LeeLiu\ChartSuite - Copy\Test\bin\Debug\Test.pdb
+C:\LeeLiu\ChartSuite - Copy\Test\bin\Debug\ChartSuite.dll
+C:\LeeLiu\ChartSuite - Copy\Test\bin\Debug\ChartSuite.pdb
+C:\LeeLiu\ChartSuite - Copy\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\LeeLiu\ChartSuite - Copy\Test\obj\Debug\Test.Form1.resources
+C:\LeeLiu\ChartSuite - Copy\Test\obj\Debug\Test.Properties.Resources.resources
+C:\LeeLiu\ChartSuite - Copy\Test\obj\Debug\Test.csproj.GenerateResource.Cache

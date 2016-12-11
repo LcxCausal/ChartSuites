@@ -1,0 +1,14 @@
+C:\LeeLiu\ChartSuite\ChartSuite\obj\Debug\ChartSuite.ChartView.resources
+C:\LeeLiu\ChartSuite\ChartSuite\obj\Debug\ChartSuite.csproj.GenerateResource.Cache
+C:\LeeLiu\ChartSuite\ChartSuite\bin\Debug\ChartSuite.dll
+C:\LeeLiu\ChartSuite\ChartSuite\bin\Debug\ChartSuite.pdb
+C:\LeeLiu\ChartSuite\ChartSuite\obj\Debug\ChartSuite.dll
+C:\LeeLiu\ChartSuite\ChartSuite\obj\Debug\ChartSuite.pdb
+C:\LeeLiu\ChartSuite\ChartSuite\obj\Debug\ChartSuite.csprojResolveAssemblyReference.cache
+C:\LeeLiu\ChartSuite - Copy\ChartSuite\bin\Debug\ChartSuite.dll
+C:\LeeLiu\ChartSuite - Copy\ChartSuite\bin\Debug\ChartSuite.pdb
+C:\LeeLiu\ChartSuite - Copy\ChartSuite\obj\Debug\ChartSuite.csprojResolveAssemblyReference.cache
+C:\LeeLiu\ChartSuite - Copy\ChartSuite\obj\Debug\ChartSuite.ChartView.resources
+C:\LeeLiu\ChartSuite - Copy\ChartSuite\obj\Debug\ChartSuite.csproj.GenerateResource.Cache
+C:\LeeLiu\ChartSuite - Copy\ChartSuite\obj\Debug\ChartSuite.dll
+C:\LeeLiu\ChartSuite - Copy\ChartSuite\obj\Debug\ChartSuite.pdb

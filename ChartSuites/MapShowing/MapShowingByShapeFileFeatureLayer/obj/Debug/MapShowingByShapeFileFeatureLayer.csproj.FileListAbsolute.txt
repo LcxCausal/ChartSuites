@@ -1,0 +1,17 @@
+C:\LeeLiu\MapShowing\MapShowingByShapeFileFeatureLayer\bin\Debug\MapShowingByShapeFileFeatureLayer.exe.config
+C:\LeeLiu\MapShowing\MapShowingByShapeFileFeatureLayer\bin\Debug\MapShowingByShapeFileFeatureLayer.exe
+C:\LeeLiu\MapShowing\MapShowingByShapeFileFeatureLayer\bin\Debug\MapShowingByShapeFileFeatureLayer.pdb
+C:\LeeLiu\MapShowing\MapShowingByShapeFileFeatureLayer\bin\Debug\CSScriptLibrary.dll
+C:\LeeLiu\MapShowing\MapShowingByShapeFileFeatureLayer\bin\Debug\DesktopEdition.dll
+C:\LeeLiu\MapShowing\MapShowingByShapeFileFeatureLayer\bin\Debug\GeoAPI.dll
+C:\LeeLiu\MapShowing\MapShowingByShapeFileFeatureLayer\bin\Debug\MapSuiteCore.dll
+C:\LeeLiu\MapShowing\MapShowingByShapeFileFeatureLayer\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\LeeLiu\MapShowing\MapShowingByShapeFileFeatureLayer\bin\Debug\NetTopologySuite.dll
+C:\LeeLiu\MapShowing\MapShowingByShapeFileFeatureLayer\bin\Debug\ZedGraph.dll
+C:\LeeLiu\MapShowing\MapShowingByShapeFileFeatureLayer\bin\Debug\ZedGraphStyleExtension.dll
+C:\LeeLiu\MapShowing\MapShowingByShapeFileFeatureLayer\obj\Debug\MapShowingByShapeFileFeatureLayer.csprojResolveAssemblyReference.cache
+C:\LeeLiu\MapShowing\MapShowingByShapeFileFeatureLayer\obj\Debug\MapShowingByShapeFileFeatureLayer.MapShowingByShapeFileFeatureLayer.resources
+C:\LeeLiu\MapShowing\MapShowingByShapeFileFeatureLayer\obj\Debug\MapShowingByShapeFileFeatureLayer.Properties.Resources.resources
+C:\LeeLiu\MapShowing\MapShowingByShapeFileFeatureLayer\obj\Debug\MapShowingByShapeFileFeatureLayer.csproj.GenerateResource.Cache
+C:\LeeLiu\MapShowing\MapShowingByShapeFileFeatureLayer\obj\Debug\MapShowingByShapeFileFeatureLayer.exe
+C:\LeeLiu\MapShowing\MapShowingByShapeFileFeatureLayer\obj\Debug\MapShowingByShapeFileFeatureLayer.pdb
